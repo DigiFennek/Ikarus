@@ -2,7 +2,7 @@ This is one of my first attempts to write a flight simulator. The host was a Com
 
 ![Image](Ikarus1.png)
 
-![Image](https://github.com/DigiFennek/Ikarus/blob/master/Ikarus2.png)
+![Image](Ikarus2.png)
 
-![Image](https://github.com/DigiFennek/Ikarus/blob/master/Ikarus3.png)
+![Image](Ikarus3.png)
 
